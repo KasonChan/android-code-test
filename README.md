@@ -16,7 +16,7 @@ Your mission is to write an app with the following screens:
 
 ![](design/coupons.png) ![](design/login.png)
 
-Use the [design](design) folder for guidance, we would like you to focus on how the app works moreso than how it looks.
+Use the [design](design) folder for guidance, we would like you to focus on how the app works more so than how it looks.
 
 1. Coupons:
   - Show coupons from our REST API
