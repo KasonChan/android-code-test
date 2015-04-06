@@ -38,6 +38,7 @@ Use the [design](design) folder for guidance, we would like you to focus on how 
 ### Developing ###
 
 This application is written Java with Eclipse, Android SKD.
+My master repo is on https://github.com/KasonChan/coupons
 
 Currently working requirements:
 
